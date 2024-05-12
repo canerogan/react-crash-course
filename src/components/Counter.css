@@ -1,0 +1,29 @@
+/* * {
+    color:red;
+}
+
+.counterbox{
+    margin: 1%;
+    padding: 1%;
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+    max-height: 120px;
+}
+
+.counterbox__child{
+    width: 33%;
+
+}
+
+button{
+    font-size: 50px;
+    max-height: 100px;
+    max-width: 100px;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+} */
